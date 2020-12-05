@@ -1,0 +1,14 @@
+Getting started!
+
+This follows the Arduino UNO format. It has a 328P core.
+
+You must flash on Optiboot onto your 328P.
+
+This board is compatible with Atmega8, Atmega168, and Atmega328/328P.
+
+3.3V output is NOT SUPPORTED.
+
+USB bridge is not onboard. You must use a FTDI adapter.
+
+Once you've burned Optiboot onto the 328P, connected to your computer, you may now use Arduino IDE and be able to program this board like an arduino UNO.
+
